@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Civil Law",
+    "slug": "civil-law",
+    "description": "Legal disputes between individuals or organizations, including contracts, torts, property disputes.",
+    "subcategories": ["Property Disputes", "Contract Law", "Consumer Protection", "Landlord-Tenant Matters", "Tort & Personal Injury"]
+  },
+  {
+    "id": 2,
+    "name": "Criminal Law",
+    "slug": "criminal-law",
+    "description": "Cases involving offenses against the state or individuals, including trials, bail, and cybercrimes.",
+    "subcategories": ["Bail Matters", "Criminal Trials", "Cyber Crimes", "White-Collar Crimes", "Domestic Violence"]
+  },
+  {
+    "id": 3,
+    "name": "Family Law",
+    "slug": "family-law",
+    "description": "Legal matters related to family relationships, marriage, and children.",
+    "subcategories": ["Divorce", "Child Custody", "Adoption", "Domestic Abuse", "Maintenance/Alimony"]
+  },
+  {
+    "id": 4,
+    "name": "Corporate & Commercial Law",
+    "slug": "corporate-commercial-law",
+    "description": "Law governing companies, business transactions, and commercial disputes.",
+    "subcategories": ["Company Law", "Contract Drafting", "Arbitration & Mediation", "Intellectual Property", "Mergers & Acquisitions"]
+  },
+  {
+    "id": 5,
+    "name": "Constitutional & Administrative Law",
+    "slug": "constitutional-administrative-law",
+    "description": "Legal matters concerning the Constitution, human rights, and administrative disputes.",
+    "subcategories": ["Writ Petitions", "Service Matters", "Human Rights", "Public Interest Litigations (PILs)"]
+  },
+  {
+    "id": 6,
+    "name": "Property & Real Estate Law",
+    "slug": "property-real-estate-law",
+    "description": "Matters related to buying, selling, or leasing property, and real estate regulations.",
+    "subcategories": ["Title Verification", "Property Registration", "RERA Matters", "Lease & Sale Agreements"]
+  },
+  {
+    "id": 7,
+    "name": "Taxation Law",
+    "slug": "taxation-law",
+    "description": "Legal matters related to taxes, GST, customs, and tax appeals.",
+    "subcategories": ["Income Tax", "GST", "Customs & Excise", "Tax Appeals"]
+  },
+  {
+    "id": 8,
+    "name": "Labor & Employment Law",
+    "slug": "labor-employment-law",
+    "description": "Issues regarding workplace, employment contracts, and industrial disputes.",
+    "subcategories": ["Employment Contracts", "Workplace Harassment", "Industrial Disputes", "Termination & Compensation"]
+  },
+  {
+    "id": 9,
+    "name": "Banking & Finance Law",
+    "slug": "banking-finance-law",
+    "description": "Legal matters related to banks, loans, debt recovery, and insolvency.",
+    "subcategories": ["Loan Recovery", "Debt Restructuring", "RBI & Financial Regulations", "Insolvency & Bankruptcy"]
+  },
+  {
+    "id": 10,
+    "name": "Intellectual Property Law",
+    "slug": "intellectual-property-law",
+    "description": "Protecting creative works and inventions through patents, trademarks, and copyrights.",
+    "subcategories": ["Trademark", "Copyright", "Patent", "IP Licensing", "Infringement Cases"]
+  },
+  {
+    "id": 11,
+    "name": "Environmental Law",
+    "slug": "environmental-law",
+    "description": "Legal issues related to environmental protection and regulations.",
+    "subcategories": ["Pollution Control", "Environmental Clearances", "Wildlife Protection"]
+  },
+  {
+    "id": 12,
+    "name": "Cyber & Technology Law",
+    "slug": "cyber-technology-law",
+    "description": "Matters related to IT, cybersecurity, data protection, and digital contracts.",
+    "subcategories": ["Data Protection", "IT Contracts", "Cybercrime", "Digital Evidence"]
+  }
+]

@@ -1,0 +1,80 @@
+.App {
+  text-align: left;
+}
+
+.App-logo {
+  height: 20vmin;
+  pointer-events: none;
+
+}
+.css-1usuzwp-MuiButtonBase-root-MuiTab-root{
+  color: white !important;
+}
+.css-1usuzwp-MuiButtonBase-root-MuiTab-root.Mui-selected{
+  color: bisque !important;
+}
+.css-93wjf5-MuiButtonBase-root-MuiTab-root{
+  color: gold !important;
+}
+
+
+/* @media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+} */
+
+.App-header {
+  background-color: darkcyan;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+h2, p {
+  margin: 10px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: darkcyan;
+  display: flex;
+}
+
+ul li a {
+  display: block;
+  color: white;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+ul li a:hover {
+  background-color: grey;
+}
+.heading-title{
+  color: #27496c;
+    font-size: 30px;
+    line-height: 45px;
+    border-bottom: 1px solid #e8e8e8;
+    margin: -12px 0 40px;
+    font-family: Noto Serif, sans-serif;
+    padding-top: 5%;
+}
