@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3c959494.css",
+    "main.js": "/static/js/main.cfb5c273.js",
+    "static/js/453.8fbb2ebd.chunk.js": "/static/js/453.8fbb2ebd.chunk.js",
+    "static/media/client.png": "/static/media/client.939183cb21e0b364871a.png",
+    "static/media/shankar.jpg": "/static/media/shankar.3926c45c9eede677b19d.jpg",
+    "static/media/thiru.jpg": "/static/media/thiru.d1e8759d60d08ae8b420.jpg",
+    "static/media/gettyimages-1.jpg": "/static/media/gettyimages-1.3e022b3597b4d1af7a2a.jpg",
+    "static/media/advocate.png": "/static/media/advocate.9e563aaac857d98eb502.png",
+    "static/media/lawicon.jpg": "/static/media/lawicon.bbc69b00beb1e351dcad.jpg",
+    "index.html": "/index.html",
+    "main.3c959494.css.map": "/static/css/main.3c959494.css.map",
+    "main.cfb5c273.js.map": "/static/js/main.cfb5c273.js.map",
+    "453.8fbb2ebd.chunk.js.map": "/static/js/453.8fbb2ebd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c959494.css",
+    "static/js/main.cfb5c273.js"
+  ]
+}
